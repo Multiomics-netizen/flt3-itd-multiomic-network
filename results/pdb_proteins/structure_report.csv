@@ -1,0 +1,21 @@
+"gene","UniProt","source","file","pipeline_version","download_date","rwr_restart","string_confidence"
+"NFIX","Q14938","AlphaFold","C:/xampp/htdocs/LMA-Repositioning-Pipeline/shared_data/step1_multiomics_out/pdb_proteins/NFIX_Q14938_alphafold.pdb","RWR_1.0","2026-06-13 19:48:11.934278",0.85,700
+"PRDM16","Q9HAZ2","AlphaFold","C:/xampp/htdocs/LMA-Repositioning-Pipeline/shared_data/step1_multiomics_out/pdb_proteins/PRDM16_Q9HAZ2_alphafold.pdb","RWR_1.0","2026-06-13 19:48:11.934278",0.85,700
+"LGALS3BP","Q08380","AlphaFold","C:/xampp/htdocs/LMA-Repositioning-Pipeline/shared_data/step1_multiomics_out/pdb_proteins/LGALS3BP_Q08380_alphafold.pdb","RWR_1.0","2026-06-13 19:48:11.934278",0.85,700
+"IRX3","P78415","AlphaFold","C:/xampp/htdocs/LMA-Repositioning-Pipeline/shared_data/step1_multiomics_out/pdb_proteins/IRX3_P78415_alphafold.pdb","RWR_1.0","2026-06-13 19:48:11.934278",0.85,700
+"CXCL12","P48061","AlphaFold","C:/xampp/htdocs/LMA-Repositioning-Pipeline/shared_data/step1_multiomics_out/pdb_proteins/CXCL12_P48061_alphafold.pdb","RWR_1.0","2026-06-13 19:48:11.934278",0.85,700
+"CAMK2D","Q13557","AlphaFold","C:/xampp/htdocs/LMA-Repositioning-Pipeline/shared_data/step1_multiomics_out/pdb_proteins/CAMK2D_Q13557_alphafold.pdb","RWR_1.0","2026-06-13 19:48:11.934278",0.85,700
+"ANO7","Q6IWH7","AlphaFold","C:/xampp/htdocs/LMA-Repositioning-Pipeline/shared_data/step1_multiomics_out/pdb_proteins/ANO7_Q6IWH7_alphafold.pdb","RWR_1.0","2026-06-13 19:48:11.934278",0.85,700
+"AGXT","P21549","AlphaFold","C:/xampp/htdocs/LMA-Repositioning-Pipeline/shared_data/step1_multiomics_out/pdb_proteins/AGXT_P21549_alphafold.pdb","RWR_1.0","2026-06-13 19:48:11.934278",0.85,700
+"KCNK5","O95279","AlphaFold","C:/xampp/htdocs/LMA-Repositioning-Pipeline/shared_data/step1_multiomics_out/pdb_proteins/KCNK5_O95279_alphafold.pdb","RWR_1.0","2026-06-13 19:48:11.934278",0.85,700
+"ADRB1","P08588","AlphaFold","C:/xampp/htdocs/LMA-Repositioning-Pipeline/shared_data/step1_multiomics_out/pdb_proteins/ADRB1_P08588_alphafold.pdb","RWR_1.0","2026-06-13 19:48:11.934278",0.85,700
+"JCHAIN","P01591","AlphaFold","C:/xampp/htdocs/LMA-Repositioning-Pipeline/shared_data/step1_multiomics_out/pdb_proteins/JCHAIN_P01591_alphafold.pdb","RWR_1.0","2026-06-13 19:48:11.934278",0.85,700
+"IRX5","P78411","AlphaFold","C:/xampp/htdocs/LMA-Repositioning-Pipeline/shared_data/step1_multiomics_out/pdb_proteins/IRX5_P78411_alphafold.pdb","RWR_1.0","2026-06-13 19:48:11.934278",0.85,700
+"CFH","P08603","AlphaFold","C:/xampp/htdocs/LMA-Repositioning-Pipeline/shared_data/step1_multiomics_out/pdb_proteins/CFH_P08603_alphafold.pdb","RWR_1.0","2026-06-13 19:48:11.934278",0.85,700
+"ADRB2","P07550","AlphaFold","C:/xampp/htdocs/LMA-Repositioning-Pipeline/shared_data/step1_multiomics_out/pdb_proteins/ADRB2_P07550_alphafold.pdb","RWR_1.0","2026-06-13 19:48:11.934278",0.85,700
+"FCGRT","P55899","AlphaFold","C:/xampp/htdocs/LMA-Repositioning-Pipeline/shared_data/step1_multiomics_out/pdb_proteins/FCGRT_P55899_alphafold.pdb","RWR_1.0","2026-06-13 19:48:11.934278",0.85,700
+"LGMN","Q99538","AlphaFold","C:/xampp/htdocs/LMA-Repositioning-Pipeline/shared_data/step1_multiomics_out/pdb_proteins/LGMN_Q99538_alphafold.pdb","RWR_1.0","2026-06-13 19:48:11.934278",0.85,700
+"MDFI","Q99750","AlphaFold","C:/xampp/htdocs/LMA-Repositioning-Pipeline/shared_data/step1_multiomics_out/pdb_proteins/MDFI_Q99750_alphafold.pdb","RWR_1.0","2026-06-13 19:48:11.934278",0.85,700
+"PBX3","P40426","AlphaFold","C:/xampp/htdocs/LMA-Repositioning-Pipeline/shared_data/step1_multiomics_out/pdb_proteins/PBX3_P40426_alphafold.pdb","RWR_1.0","2026-06-13 19:48:11.934278",0.85,700
+"ST3GAL4","Q11206","AlphaFold","C:/xampp/htdocs/LMA-Repositioning-Pipeline/shared_data/step1_multiomics_out/pdb_proteins/ST3GAL4_Q11206_alphafold.pdb","RWR_1.0","2026-06-13 19:48:11.934278",0.85,700
+"WDR86","Q86TI4","AlphaFold","C:/xampp/htdocs/LMA-Repositioning-Pipeline/shared_data/step1_multiomics_out/pdb_proteins/WDR86_Q86TI4_alphafold.pdb","RWR_1.0","2026-06-13 19:48:11.934278",0.85,700
